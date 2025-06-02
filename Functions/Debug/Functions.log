@@ -1,2 +1,4 @@
-﻿  Functions.cpp
-  Functions.vcxproj -> c:\users\пользователь\documents\visual studio 2015\Projects\Functions\Debug\Functions.exe
+﻿  func.cpp
+c:\users\пользователь\documents\visual studio 2015\projects\functions\functions\func.cpp(1): warning C4627: #include "functions.h": пропущен при поиске использования предкомпилированного заголовка
+  c:\users\пользователь\documents\visual studio 2015\projects\functions\functions\func.cpp(1): note: Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+  Functions.vcxproj -> C:\Users\пользователь\Documents\Visual Studio 2015\Projects\Functions\Debug\Functions.exe
